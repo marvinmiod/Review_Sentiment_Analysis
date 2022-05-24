@@ -1,8 +1,8 @@
 # Sentiment_analysis
- To analyse review to determine its positive or negative
+To analyse movie comments to determine whether it is positive or negative comment
 
 # Description
-This is a project to analyse movie review in text, and predict the review is positive or negative
+This is a project to analyse movie review comments in text, and predict the review is a positive or negative sentiment
 
 # How to use it
 close repo and run it
